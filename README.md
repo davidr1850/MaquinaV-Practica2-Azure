@@ -2,7 +2,7 @@
 
 Crear una Maquina virtual con azure
 
-![img1](https://github.com/davidr1850/MaquinaV-Practica2-Azure/blob/main/Imagenes/logo.PNG)
+![img1](https://github.com/davidr1850/MaquinaV-Practica2-Azure/blob/main/Imagenes/logo.png)
 
 **REQUISITOS**
 
